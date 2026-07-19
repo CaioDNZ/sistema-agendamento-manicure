@@ -20,9 +20,13 @@ Diagrama Entidade-Relacionamento
 - MySQL Workbench
 
 📋 Estrutura das Tabelas
+
 tb_clientes ---  Cadastro dos clientes
+
 tb_servicos --- Serviços oferecidos
+
 tb_agendamentos --- Controle dos horários
+
 tb_pagamentos --- Registro dos pagamentos
 
 📈 Exemplos de Consultas
