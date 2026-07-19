@@ -68,6 +68,3 @@ tb_pagamentos --- Registro dos pagamentos
 Caio Oliveira Diniz
 LinkedIn: linkedin.com/caioodiniz
 GitHub: github.com/CaioDNZ
-Caio Oliveira Diniz
-LinkedIn: linkedin.com/caioodiniz
-GitHub: github.com/CaioDNZ
