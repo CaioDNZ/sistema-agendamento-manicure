@@ -43,15 +43,25 @@ tb_pagamentos --- Registro dos pagamentos
 4. Executar 03_consultas.sql.
 
 📚 Conceitos Praticados
+
 ✔ Modelagem Relacional 
+
 ✔ Consultas básicas
+
 ✔ Integridade Referencial
+
 ✔ Funções de Agregação
+
 ✔ Filtros
+
 ✔ JOINS 
+
 ✔ CASE 
+
 ✔ Subconsultas 
+
 ✔ EXISTS
+
 ✔ Desafios de negócio
 
 👨‍💻 Autor
