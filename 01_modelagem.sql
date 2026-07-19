@@ -1,8 +1,7 @@
 -- ========================================================== --
 -- Projeto: Sistema de Agendamento para Manicure Autônoma
--- Versão: 1.0 (Modelagem)
 -- Objetivo: Praticar modelagem de banco de dados relacional
--- Tecnologias: MySQL + Excel (futuramente)
+-- Tecnologias: MySQL
 -- Autor: Caio Oliveira Diniz
 -- ========================================================== --
 create database manicure_projeto;
