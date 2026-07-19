@@ -5,6 +5,7 @@ Projeto desenvolvido com MySQL para praticar modelagem de banco de dados relacio
 O sistema simula o gerenciamento de clientes, serviços, agendamentos e pagamentos de uma manicure autônoma.
 
 🗄 Modelo do Banco 
+
 Diagrama Entidade-Relacionamento
 
 <img width="711" height="637" alt="DER_manicure_projeto" src="https://github.com/user-attachments/assets/c713f2e6-4a38-4c03-843c-997bd1cc124e" />
@@ -22,6 +23,7 @@ Diagrama Entidade-Relacionamento
 - MySQL Workbench
 
 📋 Estrutura das Tabelas
+
 tb_clientes ---  Cadastro dos clientes
 
 tb_servicos --- Serviços oferecidos
