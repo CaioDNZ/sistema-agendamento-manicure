@@ -1,6 +1,7 @@
 📅💅 Sistema de Agendamento para Manicure
 
 Projeto desenvolvido com MySQL para praticar modelagem de banco de dados relacional, criação de tabelas, relacionamentos, inserção de dados e consultas SQL voltadas a análise de dados.
+
 O sistema simula o gerenciamento de clientes, serviços, agendamentos e pagamentos de uma manicure autônoma.
 
 🗄 Modelo do Banco
@@ -68,7 +69,10 @@ tb_pagamentos --- Registro dos pagamentos
 
 ✔ Desafios de negócio
 
-👨‍💻 Autor
+👨‍💻 Autor:
+
 Caio Oliveira Diniz
+
 LinkedIn: linkedin.com/caioodiniz
+
 GitHub: github.com/CaioDNZ
