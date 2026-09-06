@@ -229,16 +229,24 @@ sistema-agendamento-manicure/
 🚀 Como executar
 Banco de dados (MySQL)
 -- Abrir o MySQL Workbench.
+
 -- Executar 01_modelagem.sql.
+
 -- Executar 02_inserts.sql.
+
 -- Executar 03_consultas.sql.
+
 -- Executar 04_views.sql.
 
 
 Power BI
+
 -- Abrir o arquivo do projeto no Power BI Desktop.
+
 -- Conectar ao banco de dados MySQL.
+
 -- Atualizar os dados.
+
 -- Explorar as páginas do dashboard.
 
 
