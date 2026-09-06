@@ -251,7 +251,8 @@ Power BI
 
 
 📚 Conceitos Aplicados
-Banco de Dados e SQL
+
+🎲Banco de Dados e SQL
 
 ✔ Modelagem Relacional
 
@@ -278,7 +279,7 @@ Banco de Dados e SQL
 ✔ Consultas voltadas a cenários de negócio
 
 
-Power BI e Análise de Dados
+📊Power BI e Análise de Dados
 
 ✔ Conexão com banco de dados MySQL
 
