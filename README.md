@@ -311,4 +311,5 @@ O desenvolvimento também proporcionou a aplicação prática de conceitos de Ba
 Caio Oliveira Diniz
 
 linkedin.com/in/caioodiniz
+
 github.com/CaioDNZ
