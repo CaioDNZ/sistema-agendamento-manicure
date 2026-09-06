@@ -246,29 +246,50 @@ Power BI
 Banco de Dados e SQL
 
 ✔ Modelagem Relacional
+
 ✔ Chaves Primárias e Estrangeiras
+
 ✔ Integridade Referencial
+
 ✔ Consultas SQL
+
 ✔ Funções de Agregação
+
 ✔ Filtros
+
 ✔ JOINs
+
 ✔ CASE
+
 ✔ Subconsultas
+
 ✔ EXISTS
+
 ✔ Views
+
 ✔ Consultas voltadas a cenários de negócio
+
 
 Power BI e Análise de Dados
 
 ✔ Conexão com banco de dados MySQL
+
 ✔ Tratamento e organização dos dados
+
 ✔ Criação de medidas DAX
+
 ✔ KPIs
+
 ✔ Visualização de dados
+
 ✔ Construção de dashboard
+
 ✔ Análise de indicadores
+
 ✔ Perguntas de negócio
+
 ✔ Interpretação de dados
+
 
 🎯 Resultado
 
